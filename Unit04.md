@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME204: Heat Transfer"
+course_description: "An examination of heat transference methods, including conduction, convection, and radiation. Topics include conservation equations, cooling fins, transient conduction, boundary—layer theory, natural convection, heat exchangers, and boiling."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Heat Exchangers** <span id="4"></span> 
 *Heat exchangers are devices designed to transfer energy from one fluid
 to another.  You can find heat exchangers in almost any engineering

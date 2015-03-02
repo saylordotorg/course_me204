@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME204: Heat Transfer"
+course_description: "An examination of heat transference methods, including conduction, convection, and radiation. Topics include conservation equations, cooling fins, transient conduction, boundary—layer theory, natural convection, heat exchangers, and boiling."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Introduction to Heat Transfer** <span id="1"></span> 
 *This first unit will introduce you to the subject of heat transfer. 
 Mechanical engineers use the knowledge about heat transfer to solve many

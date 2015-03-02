@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME204: Heat Transfer"
+course_description: "An examination of heat transference methods, including conduction, convection, and radiation. Topics include conservation equations, cooling fins, transient conduction, boundary—layer theory, natural convection, heat exchangers, and boiling."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Radiation** <span id="5"></span> 
 *In this unit, we will study the third mode of heat transfer:
 radiation.  Unlike conduction (Unit 2) and convection (Unit 3), thermal
