@@ -162,3 +162,13 @@ useful during the course.
 
 \*Terms of Use: Please respect the copyright and terms of use for the
 webpages above.
+
+**Table of Contents:** You can find the course's units at the links below.
+
+- [Unit 1](https://legacy.saylor.org/me204/Unit01/)
+- [Unit 2](https://legacy.saylor.org/me204/Unit02/)
+- [Unit 3](https://legacy.saylor.org/me204/Unit03/)
+- [Unit 4](https://legacy.saylor.org/me204/Unit04/)
+- [Unit 5](https://legacy.saylor.org/me204/Unit05/)
+- [Unit 6](https://legacy.saylor.org/me204/Unit06/)
+- [Unit 7](https://legacy.saylor.org/me204/Unit07/)
