@@ -175,3 +175,4 @@ webpages above.
 - [Unit 5](https://legacy.saylor.org/me204/Unit05/)
 - [Unit 6](https://legacy.saylor.org/me204/Unit06/)
 - [Unit 7](https://legacy.saylor.org/me204/Unit07/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ME/ME204/ME204-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ME/ME204/ME204-FinalExam-Answers.html)
