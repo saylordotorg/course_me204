@@ -145,20 +145,20 @@ id="4.5"></span> 
 
 -   **Assessment: The Saylor Foundation’s “Unit 4 Assessment”**
     Link: The Saylor Foundation’s “[Unit 4
-    A](http://www.saylor.org/site/wp-content/uploads/2011/09/ME204-Unit4Quiz-FINAL.pdf)[ssessment](http://www.saylor.org/site/wp-content/uploads/2011/09/ME204-Unit4Quiz-FINAL.pdf)”
+    A](https://resources.saylor.org/archived/wp-content/uploads/2011/09/ME204-Unit4Quiz-FINAL.pdf)[ssessment](https://resources.saylor.org/archived/wp-content/uploads/2011/09/ME204-Unit4Quiz-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please download the quiz linked above, and answer
     each question before checking your answers against The Saylor
     Foundation’s “[Unit 4 Assessment Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2011/09/ME204-Unit4QuizAnswerKey-FINAL.pdf)
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/ME204-Unit4QuizAnswerKey-FINAL.pdf)
     (PDF).
 
 -   **Assessment: The Saylor Foundation’s “ME 204 Heat Transfer: Design
     of A Heat Exchanger"**
     Link: The Saylor Foundation’s “[ME 204 Heat Transfer: Design of A
     Heat
-    Exchanger](http://www.saylor.org/site/wp-content/uploads/2011/11/ME204-Unit-4-Assignment-Heat-Exchanger-Design-Updated-FINAL.pdf)”
+    Exchanger](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME204-Unit-4-Assignment-Heat-Exchanger-Design-Updated-FINAL.pdf)”
     (PDF)  
         
      Instructions: Read the document and complete the assessment as
@@ -166,7 +166,7 @@ id="4.5"></span> 
         
      When you are done, check your work against The Saylor Foundation's
     "[ME204 Heat Transfer Assessment Answer
-    Key.](http://www.saylor.org/site/wp-content/uploads/2011/11/ME204-Unit-4-Assignment-Heat-Exchanger-Design-Answer-Key-Final.pdf)”
+    Key.](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ME204-Unit-4-Assignment-Heat-Exchanger-Design-Answer-Key-Final.pdf)”
     (PDF)
 
 

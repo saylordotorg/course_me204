@@ -141,11 +141,11 @@ introduction*
 
 -   **Assessment: The Saylor Foundation's “Unit 6 Assessment”**
     Link: The Saylor Foundation's [“Unit 6
-    Assessment”](http://www.saylor.org/site/wp-content/uploads/2012/09/ME204-Unit-6-Assessment-Revised-FINAL.pdf) (PDF)  
+    Assessment”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME204-Unit-6-Assessment-Revised-FINAL.pdf) (PDF)  
       
      Instructions: Please complete the linked quiz.  When you are done,
     check your work against The Saylor Foundation's [“Unit 6 Assessment
     Answer
-    Key”](http://www.saylor.org/site/wp-content/uploads/2012/09/ME204-Unit-6-Assessment-Answer-Key-Revised-FINAL.pdf) (PDF).
+    Key”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME204-Unit-6-Assessment-Answer-Key-Revised-FINAL.pdf) (PDF).
 
 
