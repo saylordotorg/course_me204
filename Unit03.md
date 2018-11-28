@@ -337,12 +337,12 @@ introduction.*
 
 -   **Assessment: The Saylor Foundation's "Unit 3 Assessment"**
     Link: The Saylor Foundation's ["Unit
-    3 Assessment"](https://resources.saylor.org/archived/wp-content/uploads/2011/09/ME204-Unit-3-Assessment-FINAL.pdf) (PDF)  
+    3 Assessment"](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/09/ME204-Unit-3-Assessment-FINAL.pdf) (PDF)  
       
      Instructions: Please complete the linked quiz.  When you are done,
     check your work against The Saylor Foundation's "[Unit 3 Assessment
     Answer
-    Key](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ME204-Unit3Quiz-AnswerKey-FINAL.pdf)"
+    Key](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ME204-Unit3Quiz-AnswerKey-FINAL.pdf)"
     (PDF).
 
 

@@ -424,22 +424,22 @@ id="2.4.5"></span> 
 
 -   **Assessment: The Saylor Foundation’s “Unit 2 Assessment”**
     Link: The Saylor Foundation’s [“Unit 2
-    Assessment”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME204-Unit-2-Assessment-Revised-FINAL.pdf) (PDF)  
+    Assessment”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/ME204-Unit-2-Assessment-Revised-FINAL.pdf) (PDF)  
         
      Instructions: Please download the quiz linked above, and answer
     each question before checking your answers against The Saylor
     Foundation’s [“Unit 2 Assessment Answer
-    Key”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME204-Unit-2-Assessment-Answer-Key-Revised-FINAL.pdf) (PDF).
+    Key”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/ME204-Unit-2-Assessment-Answer-Key-Revised-FINAL.pdf) (PDF).
 
 -   **Assessment: The Saylor Foundation’s “ME 204 Heat Transfer: Radial
     Heat Conduction”**
     Link: The Saylor Foundation’s  “[ME 204 Heat Transfer: Radial
-    Heat Conduction](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ME103-Assessment6-FINAL1.pdf)”
+    Heat Conduction](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ME103-Assessment6-FINAL1.pdf)”
     (PDF)  
         
      Instructions: Read the document and complete the assessment
     as instructed. The solution to the problem is given in the "[Answer
-    Key](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ME103-Assessment-6-GTR-FINAL1.pdf)"
+    Key](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ME103-Assessment-6-GTR-FINAL1.pdf)"
     (PDF).
 
 
