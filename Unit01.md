@@ -121,9 +121,9 @@ introduction.*
 **Unit 1 Assessment** <span id="1.4"></span> 
 -   **Assessment: The Saylor Foundation's "Unit 1 Assessment"**
     Link: The Saylor Foundation’s [“Unit 1
-    Assesment”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ME204-Unit1Quiz-Updated-FINAL.pdf) (PDF)
+    Assesment”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ME204-Unit1Quiz-Updated-FINAL.pdf) (PDF)
     and [“Unit 1 Assessment Answer
-    Key”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ME204-Unit1Quiz-AnswerKey-Updated-FINAL.pdf) (PDF).  
+    Key”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ME204-Unit1Quiz-AnswerKey-Updated-FINAL.pdf) (PDF).  
         
      Instructions: Please download the quiz linked above, and answer
     each question before checking your answers against the answer key.

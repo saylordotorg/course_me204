@@ -196,13 +196,13 @@ id="5.4"></span> 
 **5.5 Solar Radiation** <span id="5.5"></span> 
 -   **Assessment: The Saylor Foundation's “Unit 5 Assessment”**
     Link: The Saylor Foundation's [“Unit 5
-    Assessment](https://resources.saylor.org/archived/wp-content/uploads/2011/09/ME204-Unit5-Assessment-FINAL.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/ME204-Unit5-Assessment-FINAL.pdf)
+    Assessment](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/09/ME204-Unit5-Assessment-FINAL.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/09/ME204-Unit5-Assessment-FINAL.pdf)
     (PDF)  
         
      Instructions: Please complete the linked quiz.  When you are done,
     check your work against The Saylor Foundation's [“Unit 5 Assessment
     Answer
-    Key](https://resources.saylor.org/archived/wp-content/uploads/2011/09/ME204-Unit5AnswerKey-FINAL.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/ME204-Unit5AnswerKey-FINAL.pdf)
+    Key](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/09/ME204-Unit5AnswerKey-FINAL.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/09/ME204-Unit5AnswerKey-FINAL.pdf)
     (PDF)
 
 -   **Reading: MIT: Professors John Lienhard IV and John Lienhard V’s A
